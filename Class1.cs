@@ -8,5 +8,6 @@ namespace pis1
 {
     internal class Class1
     {
+        int varijablica;
     }
 }
